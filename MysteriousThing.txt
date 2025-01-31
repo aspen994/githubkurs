@@ -1,1 +1,2 @@
 Dobra a teraz lecimy z nową rzeczą.
+Teraz tak dodaje nowa rzecz na nowym branchu a to jest właśnie ta nowa rzecz na tym nowym branchu.
