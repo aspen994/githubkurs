@@ -1,2 +1,4 @@
 Dobra a teraz lecimy z nową rzeczą.
 Teraz tak dodaje nowa rzecz na nowym branchu a to jest właśnie ta nowa rzecz na tym nowym branchu.
+Najpierw dodaje nowa rzecz na nowym branchu a potem zmerguje to z masterem.
+To jest właśnie ta nowa rzecz na nowym branchu.
